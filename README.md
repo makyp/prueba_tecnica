@@ -16,8 +16,6 @@ Esta es una aplicación móvil desarrollada en Flutter que permite visualizar lo
 - `screens/instituciones_screen.dart`: Pantalla para mostrar las instituciones de un municipio.
 - `screens/sedes_screen.dart`: Pantalla para mostrar las sedes de una institución.
 - `screens/grupos_screen.dart`: Pantalla para mostrar los grupos de una sede.
-- `dio_mock.dart`: Mock para Dio usado en pruebas.
-- `widget_test.dart`: Archivo de pruebas.
 
 ## Instalación
 
@@ -30,8 +28,7 @@ Esta es una aplicación móvil desarrollada en Flutter que permite visualizar lo
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/educational-institutions-app.git
-    cd educational-institutions-app
+    git clone git@github.com:makyp/prueba_tecnica.git
     ```
 
 2. Instala las dependencias:
